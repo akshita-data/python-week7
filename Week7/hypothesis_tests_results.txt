@@ -1,0 +1,3 @@
+Statistical Analysis Results
+Mean Sales: 123650.48
+Confidence Interval: 103776.34767158539 to 143524.6123284146
